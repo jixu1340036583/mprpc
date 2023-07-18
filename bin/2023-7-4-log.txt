@@ -1,0 +1,20 @@
+23:37:58 =>[ERROR] (/home/jixu/Mycode/ShiLei/mprpc/example/callee/userservice.cpp:62) -> first log message!
+23:37:58 =>[ERROR] (/home/jixu/Mycode/ShiLei/mprpc/example/callee/userservice.cpp:63) -> /home/jixu/Mycode/ShiLei/mprpc/example/callee/userservice.cpp:main:63
+23:37:58 =>[INFO] (/home/jixu/Mycode/ShiLei/mprpc/src/mprpcprovider.cpp:14) -> Notify service_name: UserServiceRpc
+23:37:58 =>[INFO] (/home/jixu/Mycode/ShiLei/mprpc/src/mprpcprovider.cpp:21) -> Notify method_name: Login
+23:37:58 =>[INFO] (/home/jixu/Mycode/ShiLei/mprpc/src/mprpcprovider.cpp:21) -> Notify method_name: Register
+23:38:0 =>[DEBUG] (/home/jixu/Mycode/ShiLei/mprpc/src/mprpcchannel.cpp:52) -> =======待发送的rpcheader==========
+23:38:0 =>[DEBUG] (/home/jixu/Mycode/ShiLei/mprpc/src/mprpcchannel.cpp:53) -> header_size: 25
+23:38:0 =>[DEBUG] (/home/jixu/Mycode/ShiLei/mprpc/src/mprpcchannel.cpp:54) -> rpc_header_str: 
+UserServiceRpcLogin
+23:38:0 =>[DEBUG] (/home/jixu/Mycode/ShiLei/mprpc/src/mprpcchannel.cpp:55) -> service_name: UserServiceRpc
+23:38:0 =>[DEBUG] (/home/jixu/Mycode/ShiLei/mprpc/src/mprpcchannel.cpp:56) -> method_name: Login
+23:38:0 =>[DEBUG] (/home/jixu/Mycode/ShiLei/mprpc/src/mprpcchannel.cpp:57) -> args_str: 
+	zhang san123456
+23:38:0 =>[DEBUG] (/home/jixu/Mycode/ShiLei/mprpc/src/mprpcchannel.cpp:58) -> =================================
+23:38:0 =>[INFO] (/home/jixu/Mycode/ShiLei/MyMuduo/src/TcpServer.cc:115) -> TcpServer::newConnection [MpRpcProvider] - new connection [MpRpcProvider-127.0.0.1:8000#1] from 127.0.0.1:49288 
+
+23:38:0 =>[INFO] (/home/jixu/Mycode/ShiLei/MyMuduo/src/TcpConnection.cc:256) -> TcpConnection::handleClose fd=26 state=3 
+
+23:38:0 =>[INFO] (/home/jixu/Mycode/ShiLei/MyMuduo/src/TcpServer.cc:159) -> TcpServer::removeConnectionInLoop [MpRpcProvider] - connection MpRpcProvider-127.0.0.1:8000#1
+

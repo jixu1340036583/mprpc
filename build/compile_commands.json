@@ -1,0 +1,62 @@
+[
+{
+  "directory": "/home/jixu/Mycode/ShiLei/mprpc/build/src",
+  "command": "/usr/bin/g++ -Dmprpc_EXPORTS -I/home/jixu/Mycode/ShiLei/mprpc/include -I/home/jixu/Mycode/ShiLei/mprpc/include/reactorX -I/home/jixu/Mycode/ShiLei/mprpc/include/threadpool -I/home/jixu/Mycode/ShiLei/mprpc/example -g -g -fPIC -o CMakeFiles/mprpc.dir/Logger.cc.o -c /home/jixu/Mycode/ShiLei/mprpc/src/Logger.cc",
+  "file": "/home/jixu/Mycode/ShiLei/mprpc/src/Logger.cc"
+},
+{
+  "directory": "/home/jixu/Mycode/ShiLei/mprpc/build/src",
+  "command": "/usr/bin/g++ -Dmprpc_EXPORTS -I/home/jixu/Mycode/ShiLei/mprpc/include -I/home/jixu/Mycode/ShiLei/mprpc/include/reactorX -I/home/jixu/Mycode/ShiLei/mprpc/include/threadpool -I/home/jixu/Mycode/ShiLei/mprpc/example -g -g -fPIC -o CMakeFiles/mprpc.dir/mprpcapplication.cpp.o -c /home/jixu/Mycode/ShiLei/mprpc/src/mprpcapplication.cpp",
+  "file": "/home/jixu/Mycode/ShiLei/mprpc/src/mprpcapplication.cpp"
+},
+{
+  "directory": "/home/jixu/Mycode/ShiLei/mprpc/build/src",
+  "command": "/usr/bin/g++ -Dmprpc_EXPORTS -I/home/jixu/Mycode/ShiLei/mprpc/include -I/home/jixu/Mycode/ShiLei/mprpc/include/reactorX -I/home/jixu/Mycode/ShiLei/mprpc/include/threadpool -I/home/jixu/Mycode/ShiLei/mprpc/example -g -g -fPIC -o CMakeFiles/mprpc.dir/mprpcchannel.cpp.o -c /home/jixu/Mycode/ShiLei/mprpc/src/mprpcchannel.cpp",
+  "file": "/home/jixu/Mycode/ShiLei/mprpc/src/mprpcchannel.cpp"
+},
+{
+  "directory": "/home/jixu/Mycode/ShiLei/mprpc/build/src",
+  "command": "/usr/bin/g++ -Dmprpc_EXPORTS -I/home/jixu/Mycode/ShiLei/mprpc/include -I/home/jixu/Mycode/ShiLei/mprpc/include/reactorX -I/home/jixu/Mycode/ShiLei/mprpc/include/threadpool -I/home/jixu/Mycode/ShiLei/mprpc/example -g -g -fPIC -o CMakeFiles/mprpc.dir/mprpcconfig.cpp.o -c /home/jixu/Mycode/ShiLei/mprpc/src/mprpcconfig.cpp",
+  "file": "/home/jixu/Mycode/ShiLei/mprpc/src/mprpcconfig.cpp"
+},
+{
+  "directory": "/home/jixu/Mycode/ShiLei/mprpc/build/src",
+  "command": "/usr/bin/g++ -Dmprpc_EXPORTS -I/home/jixu/Mycode/ShiLei/mprpc/include -I/home/jixu/Mycode/ShiLei/mprpc/include/reactorX -I/home/jixu/Mycode/ShiLei/mprpc/include/threadpool -I/home/jixu/Mycode/ShiLei/mprpc/example -g -g -fPIC -o CMakeFiles/mprpc.dir/mprpccontroller.cpp.o -c /home/jixu/Mycode/ShiLei/mprpc/src/mprpccontroller.cpp",
+  "file": "/home/jixu/Mycode/ShiLei/mprpc/src/mprpccontroller.cpp"
+},
+{
+  "directory": "/home/jixu/Mycode/ShiLei/mprpc/build/src",
+  "command": "/usr/bin/g++ -Dmprpc_EXPORTS -I/home/jixu/Mycode/ShiLei/mprpc/include -I/home/jixu/Mycode/ShiLei/mprpc/include/reactorX -I/home/jixu/Mycode/ShiLei/mprpc/include/threadpool -I/home/jixu/Mycode/ShiLei/mprpc/example -g -g -fPIC -o CMakeFiles/mprpc.dir/mprpcprovider.cpp.o -c /home/jixu/Mycode/ShiLei/mprpc/src/mprpcprovider.cpp",
+  "file": "/home/jixu/Mycode/ShiLei/mprpc/src/mprpcprovider.cpp"
+},
+{
+  "directory": "/home/jixu/Mycode/ShiLei/mprpc/build/src",
+  "command": "/usr/bin/g++ -Dmprpc_EXPORTS -I/home/jixu/Mycode/ShiLei/mprpc/include -I/home/jixu/Mycode/ShiLei/mprpc/include/reactorX -I/home/jixu/Mycode/ShiLei/mprpc/include/threadpool -I/home/jixu/Mycode/ShiLei/mprpc/example -g -g -fPIC -o CMakeFiles/mprpc.dir/rpcheader.pb.cc.o -c /home/jixu/Mycode/ShiLei/mprpc/src/rpcheader.pb.cc",
+  "file": "/home/jixu/Mycode/ShiLei/mprpc/src/rpcheader.pb.cc"
+},
+{
+  "directory": "/home/jixu/Mycode/ShiLei/mprpc/build/src",
+  "command": "/usr/bin/g++ -Dmprpc_EXPORTS -I/home/jixu/Mycode/ShiLei/mprpc/include -I/home/jixu/Mycode/ShiLei/mprpc/include/reactorX -I/home/jixu/Mycode/ShiLei/mprpc/include/threadpool -I/home/jixu/Mycode/ShiLei/mprpc/example -g -g -fPIC -o CMakeFiles/mprpc.dir/zookeeperutil.cpp.o -c /home/jixu/Mycode/ShiLei/mprpc/src/zookeeperutil.cpp",
+  "file": "/home/jixu/Mycode/ShiLei/mprpc/src/zookeeperutil.cpp"
+},
+{
+  "directory": "/home/jixu/Mycode/ShiLei/mprpc/build/example/callee",
+  "command": "/usr/bin/g++  -I/home/jixu/Mycode/ShiLei/mprpc/include -I/home/jixu/Mycode/ShiLei/mprpc/include/reactorX -I/home/jixu/Mycode/ShiLei/mprpc/include/threadpool -I/home/jixu/Mycode/ShiLei/mprpc/example -g -g -o CMakeFiles/provider.dir/userservice.cpp.o -c /home/jixu/Mycode/ShiLei/mprpc/example/callee/userservice.cpp",
+  "file": "/home/jixu/Mycode/ShiLei/mprpc/example/callee/userservice.cpp"
+},
+{
+  "directory": "/home/jixu/Mycode/ShiLei/mprpc/build/example/callee",
+  "command": "/usr/bin/g++  -I/home/jixu/Mycode/ShiLei/mprpc/include -I/home/jixu/Mycode/ShiLei/mprpc/include/reactorX -I/home/jixu/Mycode/ShiLei/mprpc/include/threadpool -I/home/jixu/Mycode/ShiLei/mprpc/example -g -g -o CMakeFiles/provider.dir/__/user.pb.cc.o -c /home/jixu/Mycode/ShiLei/mprpc/example/user.pb.cc",
+  "file": "/home/jixu/Mycode/ShiLei/mprpc/example/user.pb.cc"
+},
+{
+  "directory": "/home/jixu/Mycode/ShiLei/mprpc/build/example/caller",
+  "command": "/usr/bin/g++  -I/home/jixu/Mycode/ShiLei/mprpc/include -I/home/jixu/Mycode/ShiLei/mprpc/include/reactorX -I/home/jixu/Mycode/ShiLei/mprpc/include/threadpool -I/home/jixu/Mycode/ShiLei/mprpc/example -g -g -o CMakeFiles/consumer.dir/calluserservice.cpp.o -c /home/jixu/Mycode/ShiLei/mprpc/example/caller/calluserservice.cpp",
+  "file": "/home/jixu/Mycode/ShiLei/mprpc/example/caller/calluserservice.cpp"
+},
+{
+  "directory": "/home/jixu/Mycode/ShiLei/mprpc/build/example/caller",
+  "command": "/usr/bin/g++  -I/home/jixu/Mycode/ShiLei/mprpc/include -I/home/jixu/Mycode/ShiLei/mprpc/include/reactorX -I/home/jixu/Mycode/ShiLei/mprpc/include/threadpool -I/home/jixu/Mycode/ShiLei/mprpc/example -g -g -o CMakeFiles/consumer.dir/__/user.pb.cc.o -c /home/jixu/Mycode/ShiLei/mprpc/example/user.pb.cc",
+  "file": "/home/jixu/Mycode/ShiLei/mprpc/example/user.pb.cc"
+}
+]

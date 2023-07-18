@@ -1,0 +1,1 @@
+/usr/bin/g++ -g -g -rdynamic CMakeFiles/consumer.dir/calluserservice.cpp.o CMakeFiles/consumer.dir/__/user.pb.cc.o -o ../../../bin/consumer  -Wl,-rpath,/home/jixu/Mycode/ShiLei/mprpc/lib ../../../lib/libmprpc.so ../../../lib/libReactorX.so ../../../lib/libThreadPool.so -lzookeeper_mt -lpthread -lprotobuf 
