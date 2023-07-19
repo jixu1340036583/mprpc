@@ -17,9 +17,9 @@
 + 此外，为了可将服务节点集群部署并且实现负载均衡，我采用随机选择的策略每次返回给客户端不同的服务节点;
 
 ## 前置模块讲解
-网络库：[reactorX](https://gitee.com/jixu1340036583/reactorx)
+网络库：[reactorX](https://github.com/jixu1340036583/reactorX)
 
-线程池：[ThreadPool](https://gitee.com/jixu1340036583/threadpool)
+线程池：[ThreadPool](https://github.com/jixu1340036583/ThreadPool)
 
 
 ## 架构设计
